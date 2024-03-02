@@ -22,6 +22,7 @@ Paper list of 3D detetction, keep updating!
 - <a id="WeakMono3D"></a>**[WeakMono3D]** Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency [[CVPR2023](https://arxiv.org/pdf/2303.08686.pdf)]
 - <a id="MonoPGC"></a>**[MonoPGC]** MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts [[ICRA2023](https://arxiv.org/pdf/2302.10549.pdf)]
 - <a id="ADD"></a>**[ADD]** Attention-based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection[[AAAI2023](https://arxiv.org/pdf/2211.16779.pdf)]
+- <a id="ADD"></a>**[MonoDETR]** Depth-guided Transformer for Monocular 3D Object Detection[[ICCV2023](https://arxiv.org/pdf/2203.13310.pdf)]
 
 ## 2022
 - <a id="MoGDE"></a>**[MoGDE]** MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation [[NeurIPS2022](https://arxiv.org/abs/2303.13561)]
