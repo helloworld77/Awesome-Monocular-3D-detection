@@ -3,6 +3,7 @@ Paper list of 3D detetction, keep updating!
 
 ## Contents
 - [Paper List](#Paper-List)
+	- [2024](#2024)
    	- [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
@@ -14,10 +15,16 @@ Paper list of 3D detetction, keep updating!
 - [KITTI Results](#KITTI-Results)
 
 # Paper List
+## 2024
+- <a id="MonoCD"></a>**[MonoCD]** MonoCD: Monocular 3D Object Detection with Complementary Depths [[CVPR2024](https://arxiv.org/pdf/2404.03181)][[Pytorch](https://github.com/elvintanhust/MonoCD)]
+- <a id="DPL"></a>**[DPL]** Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2403.17387)]
+- <a id="UniMODE"></a>**[UniMODE]** UniMODE: Unified Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2402.18573)]
+- <a id="YOLOBU"></a>**[YOLOBU]** You Only Look Bottom-Up for Monocular 3D Object Detection [[RA-L2024](https://arxiv.org/pdf/2401.15319)]
+
 ## 2023
 - <a id="DDML"></a>**[DDML]** Depth-discriminative Metric Learning for Monocular 3D Object Detection [[NeurIPS2023](https://arxiv.org/pdf/2401.01075.pdf)]
 - <a id="MonoXiver"></a>**[MonoXiver]** Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver [[ICCV2023](https://arxiv.org/pdf/2304.01289.pdf)]
-- <a id="MonoNeRD"></a>**[MonoNeRD]** MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection [[ICCV2023](https://arxiv.org/pdf/2308.09421.pdf)][[Pytroch](https://github.com/cskkxjk/MonoNeRD)]
+- <a id="MonoNeRD"></a>**[MonoNeRD]** MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection [[ICCV2023](https://arxiv.org/pdf/2308.09421.pdf)][[Pytorch](https://github.com/cskkxjk/MonoNeRD)]
 - <a id="MonoATT"></a>**[MonoATT]** MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer [[CVPR2023](https://arxiv.org/abs/2303.13018)]
 - <a id="WeakMono3D"></a>**[WeakMono3D]** Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency [[CVPR2023](https://arxiv.org/pdf/2303.08686.pdf)]
 - <a id="MonoPGC"></a>**[MonoPGC]** MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts [[ICRA2023](https://arxiv.org/pdf/2302.10549.pdf)]
